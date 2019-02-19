@@ -24,9 +24,7 @@ PS: Executing a process takes 1 unit of time. Changing the position takes 1 unit
 Input format:
 The first line a number N, denoting the number of processes. The second line contains the calling order of the processes. The third line contains the ideal order of the processes.
 
-Output format:
-Print the total time taken for the entire queue of processes to be executed.
-
+Output format: Print the total time taken for the entire queue of processes to be executed.
 Constraints: 
 1<=N<=100
 
