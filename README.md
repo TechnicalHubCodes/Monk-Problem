@@ -29,8 +29,8 @@ Constraints:
 1<=N<=100
 
 SAMPLE INPUT : 
-3
-3 2 1
-1 3 2
-SAMPLE OUTPUT :
-5
+n= 3
+order of process: 3 2 1
+Ideal1 order: 1 3 2
+
+SAMPLE OUTPUT : 5
