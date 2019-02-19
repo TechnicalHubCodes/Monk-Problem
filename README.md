@@ -3,7 +3,6 @@ The Monk is trying to explain to its users that even a single unit of time can b
 There are N processes to be completed by you, the chosen one, since you're Monk's favorite student. All the processes have a unique number assigned to them from 1 to N.
 
 Now, you are given two things:
-
 The calling order in which all the processes are called.
 The ideal order in which all the processes should have been executed.
 Now, let us demonstrate this by an example. Let's say that there are 3 processes, the calling order of the processes is: 3 - 2 - 1. The ideal order is: 1 - 3 - 2, i.e., process number 3 will only be executed after process number 1 has been completed; process number 2 will only be executed after process number 3 has been executed.
