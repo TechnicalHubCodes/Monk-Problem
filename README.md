@@ -33,4 +33,3 @@ SAMPLE INPUT : 3
                1 3 2
 
 SAMPLE OUTPUT : 5
-
