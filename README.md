@@ -27,7 +27,7 @@ The first line a number N, denoting the number of processes. The second line con
 Output format: Print the total time taken for the entire queue of processes to be executed.                                               
 Constraints: 1<=N<=100                                                                                                                        
 SAMPLE INPUT :                                                                                                                             
-n= 3                                                                                                                                     
-order of process: 3 2 1                                                                                                                 
-Ideal order: 1 3 2                                                                                                                       
-SAMPLE OUTPUT : 5
+3                                                                                                                                     
+3 2 1                                                                                                                 
+1 3 2                                                                                                                                                                        
+SAMPLE OUTPUT :                                                                                                                         5
