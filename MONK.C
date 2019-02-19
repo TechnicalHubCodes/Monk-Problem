@@ -4,7 +4,7 @@
 void main()
 {
 	int n,co[100],io[100],i,j,count=0,x;
-	clrscr();
+	//clrscr();
 	printf("Enter no of processes:\n");
 	scanf(" %d",&n);
 	printf("\nCalling order of processes:\n");
@@ -38,5 +38,5 @@ void main()
 		}
 	}
 	printf("\nTime taken for entire queue to be executed:\n %d",count);
-	getch();
+	//getch();
 }
