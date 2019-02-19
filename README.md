@@ -31,6 +31,6 @@ Constraints:
 SAMPLE INPUT : 
 n= 3
 order of process: 3 2 1
-Ideal1 order: 1 3 2
+Ideal order: 1 3 2
 
 SAMPLE OUTPUT : 5
